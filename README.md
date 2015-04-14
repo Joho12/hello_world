@@ -9,6 +9,7 @@ Three things that I like are:
 * Summer
 * Running
 * Beer
+
 ### Things I Don't Like
 Three things I don't like are:
 * Cold Weather
